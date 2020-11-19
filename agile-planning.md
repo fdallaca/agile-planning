@@ -4,12 +4,21 @@ class:
   - gaia
 paginate: true
 -->
+<style scoped>
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+</style>
+# Agile e pianificazione
+---
 # "Failure to plan, is planning to fail"
 
 By failing to prepare you are preparing to fail.
 _Benjamin Franklin_
 
-La necessità della pianificazione deriva dal fatto che il tempo è una risorsa limitata e per limitare il waste le attività vanno organizzate al meglio.
+La necessità della pianificazione deriva dal fatto che il tempo è una risorsa limitata e per ridurne lo spreco le attività vanno organizzate al meglio.
 
 ---
 # I 5 livelli
@@ -80,7 +89,7 @@ Per il calcolo della velocity: solo user story completate e validate negli sprin
 ---
 # Pianificazione Agile
 
-- Valutare la velocità del Team
+- Valutare la velocità del Team (Parametro Adattivo)
 ![width:400px](./images/UpdatedVelocity_Pre.jpg)
 In Story Point:
 Vmedia = $\sum_{i=1..n} SP_i$ /n (_i=iterazioni_)
@@ -170,7 +179,7 @@ Pianificazione:
 ---
 <style scoped>
 ul {
- font: 20px arial
+ font: 20px arial;
  }
 </style>
 # Riferimenti
