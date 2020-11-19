@@ -107,7 +107,7 @@ V = $\sum_{t=1..n} ore_t$ x 0.8 (_t=TeamMember_)
 - Pianificazione basata su User Stories
   - Raccoglitore dei requisiti
 - Processo iterativo e incrementale
-- Stima dei deliverable fatta dal Team
+- Stima delle story fatta dal Team
 
 ---
 # Pianificazione
@@ -169,8 +169,9 @@ Sprint planning meeting
 ---
 # Strumenti
 
-Stima:
+Metodologie di stima:
 - Planning Poker
+  - https://planningpokeronline.com/H5DNuJSEN5YWjdjYc1w8
 
 Pianificazione:
 - Capacity Tracker
@@ -189,6 +190,7 @@ ul {
 - http://www.mokabyte.it/2008/05/stimeprogetto-1/
 - https://www.agileway.it/velocity-come-misurare-i-progressi-del-team/
 - https://www.agileway.it/planning-poker-stima-agile-requisiti/
+- https://www.tutorialspoint.com/estimation_techniques/estimation_techniques_planning_poker.htm
 - https://www.humanwareonline.com/project-management/center/roadmap-progetto-prodotto/
 - https://www.humanwareonline.com/project-management/center/pianificazione-rilasci-agile-scrum/
 - https://www.knowledgehut.com/blog/agile/what-is-agile-planning-agile-planning-levels
